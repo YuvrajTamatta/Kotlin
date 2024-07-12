@@ -1,0 +1,83 @@
+Kotlin Basic Practical List
+1. Write a program that prints your name and your college name.
+2. Write a program that prints your address with name.
+3. Write a program that accept two numbers and perform all basic mathematicaloperation and print.
+4. Write a program to calculate simple interest.
+5. Write a program to calculate compound interest
+6. Write a program to calculate 10% bonus of salary.
+7. Write a program to convert KM into Meter
+8. The distance between two cities is input through keyboard. Write a program to convert and print this
+distance in feet, meter, inch and centimeter
+9. Write a program to find volume of cylinder (v = 3.14r2h )
+10. Write a program to calculate area of triangle (a = 1/2hb)
+11. Write a program to calculate area and perimeter of the rectangle
+12. Write a program to calculate area of circle
+13. Write a program to swap two values
+14. Write a program to swap two values without using third variable
+15. Write a program to read the value of X and Y and print the result of following expression (X+Y)/(X-Y)
+16. Write a program to read the value of X and Y and print the result of following expression (X+Y)/2
+17. Write a program to read the value of X and Y and print the result of following expression (X+Y)*(X-Y)
+18. Write a program to read the value of X and Y and print the result of following expression
+3X2+2XY+3Y2
+19. Write a program to read the value of X and Y and print the result of following expression (2X+3Y)/XY
+20. Write a program to convert negative to positive and positive to negative
+21. Write a program that accept 5 numbers from user and find average of the value
+22. Write a program to find out the net salary of an employee and get the basic salary fromhim.
+Applicable TA 4%, DA 30%, HRA 15% on basic salary. Applicable 3% tax 12% PF on basic salary
+23. Write a program to find maximum number from 2 numbers
+24. Write a program to find out minimum number from 2 numbers
+25. Write a program to find minimum and maximum no from 2 numbers.
+26. Write a program to check number is odd or even
+
+27. Write a program that accepts the year from user and check it leap year or not.
+28. Write a program to that accept the number from user and check it is divisible by 5 or not.
+29. Write a program that accept the number from user and check its negative, positive or zero
+30. Write a program input one integer number. Check whether number is equal to 10 ornot.
+31. Write a program input one integer number check whether number is in between 0 to100 or not
+32. Write a program input one integer number check whether number is four digits or not
+33. Write a program input one integer number check whether is greater than 50 and lessthen 200
+34. Write a program input one integer number display appropriate day of week.
+35. Write a program input one integer number display appropriate name of month
+36. Write a program to find out maximum from three number
+37. Write a program to find out minimum from three number
+38. Enter age of person and display message as Up to 5 year Kid 5- 12 Children 13 – 19 Teenager 20 – 30
+Young 31 – 60 Mid age group 60 or above Old
+39. Write a program input integer number and select number to perform following task 1 – Addition 2 –
+Subtraction 3 – Multiplication 4 – Division 5 – Exit
+40. Write a program input 5 subject marks and find class and result
+41. Write a program to find number which number is divisible by 3 but not divisible by 7
+42. Write a program that reads a sales bill amount calculate discount on bill amount asfollows if bill
+amount less than 5000 calculate 7.5% discount on bill amount otherwise calculate11% discount on bill.
+Print bill amount discount amount and net payable bill
+43. An electric power distribution company charger its domestic customers as follows Consumption unit
+rate of charge 0 – 200 RS. 0.50 per unit 201 – 400 RS. 100 + RS. 0.65 per unit 401 – 600 RS. 230 + RS.
+0.80 per unit 601 and above RS. 390 + RS. 1.00 per unit Read the customer number and power
+consumed and print the amount to be paid by the customer
+44. Get a string from user and display it in upper case
+45. Get a string from user and display it in lower case
+46. Get a string from user and check it is vowel or consonants
+47. Write a program that accept character from keyboard and determine whether the character is a
+capital letter, small letter, digit or a special character
+48. Print 1 to 10
+49. Print 2 4 6 8 10
+50. Print 1 3 5 7 9
+
+51. Print 1 2 4 8 16 32 64 128 256 512 1024
+52. Print 10 to 1 53. Print 1 10 2 9 3 8 4 7 5 6 54. Print 1 2 3 5 6 7 9 -_ _ _ n
+55. Input and number display table of that number
+56. Print series of 1/1, 1/2, 1/3, _ _ _ 1/N
+57. Print series of 1/2, 2/3, 3/4, 4/5, _ _ _ N/N+1
+58. Print series 1 + 4 – 9 + 16 – 25 + 36 + _ _ _ + N2
+59. Print 0 1 1 2 3 5 8 13 21 34 55 (Fibonacci)
+60. Print factorial value of given number
+61. Check whether the number is prime or not
+62. Print prime number between given range
+63. Write program that display square, cubes and factorials of all integer from 1 to 10
+64. Display sum of digit
+65. Display reverse number
+66. Check entered number is Armstrong or not
+67. Check entered number is palindrome or not
+68. Count odd and even digits from given number
+69. Accept number and find how many zeros are there
+
+
